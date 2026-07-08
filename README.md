@@ -1,6 +1,7 @@
-# 🎯 Desafio Criativo: Quem Não Vende, Ajuda a Vender! O Poder da Argumentação
+# 🎯 Desafio Criativo: Quem Não Vende, Ajuda a Vender! 
+# O Poder da Argumentação
 
->## 💡Objetivo:
+## 💡Objetivo:
 Criar um prompt utilizando IA para auxiliar na construção de uma abordagem de vendas baseada em argumentação, compreensão do cliente e comunicação ética.
 A proposta foi utilizar a IA como uma ferramenta de apoio para identificar perfis de clientes, compreender objeções e desenvolver respostas mais adequadas para diferentes situações de venda.
 
@@ -63,6 +64,7 @@ A IA recomendou reduzir a resistência inicial, validando a preferência do clie
 O teste demonstrou que uma boa argumentação não significa apenas responder objeções, mas compreender o motivo por trás delas.
 
 A IA ajudou a transformar uma resistência inicial em uma oportunidade de diálogo e demonstração do produto.
+
 ---
 
 ## 💡 Principal aprendizado
